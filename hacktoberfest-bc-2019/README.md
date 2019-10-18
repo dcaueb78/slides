@@ -1,6 +1,6 @@
 # Hacktoberfest 2019
 
-**Event**: HacktoberFest Balneário Camboriú - BugDoVale
+**Event**: Hacktoberfest Balneário Camboriú - BugDoVale
 **Date**: 2019/11/10
 **Language**: Portuguese (Brazil)
 

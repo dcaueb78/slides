@@ -5,8 +5,8 @@ I've just started speaking at regional _meetups_, so there's not much to see her
 
 ### Check out my slides
 
-* :package: ["MapboxGLJS" @ Internal Talk GeoSapiens, 2019/08/02](./MapBoxGLJS@2019-08-02.pptx)
-* :package: ["Hacktoberfest" @ HacktoberFest Balneário Camboriú - BugDoVale, 2019/11/10](./HachtoberfestBC@2019-11-10.pptx)
+* :package: ["MapboxGLJS" @ Internal Talk - GeoSapiens, 2019/08/02](./MapBoxGLJS@2019-08-02.pptx)
+* :package: ["Hacktoberfest" @ Hacktoberfest Balneário Camboriú - BugDoVale, 2019/11/10](./HachtoberfestBC@2019-11-10.pptx)
 
 ### LICENSE
 [MIT](./LICENSE)
