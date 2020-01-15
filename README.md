@@ -7,7 +7,8 @@ I've just started speaking at regional _meetups_, so there's not much to see her
 
 * :package: ["MapboxGLJS" @ Internal Talk - GeoSapiens, 2019/08/02](./mapboxGLJS/MapBoxGLJS@2019-08-02.pptx)
 * :package: ["Hacktoberfest" @ Hacktoberfest Balneário Camboriú - BugDoVale, 2019/10/11](./hacktoberfest-bc-2019/HacktoberFestBC@2019-10-11.pptx)
-* :package: ["AtomicDesign&StatelessComponents" @ Atomic Design & Stateless Components, 2019/11/01](./AtomicDesign&StatelessComponents/AtomicDesign&StatelessComponents@2019-01-11.pdf)
+* :package: ["AtomicDesign&StatelessComponents" @ Atomic Design & Stateless Components, 2019/11/01](./AtomicDesign&StatelessComponents/AtomicDesign&StatelessComponents@2019-11-01.pdf)
+* :package: ["StyledComponents" @ StyledComponents, 2019/11/01](./StyledComponents/StyledComponents@2019-11-01.pptx)
 
 ### LICENSE
 [MIT](./LICENSE)
